@@ -45,7 +45,7 @@ lang: 'zh'
 
 ### 从源码安装
 ```bash
-git clone https://github.com/ReilynChan/igo.git
+git clone https://github.com/kawaiirei0/igo.git
 cd igo
 go build -o igo main.go
 # 全局安装（可选）
@@ -55,7 +55,7 @@ go install
 ### 直接安装
 
 ```bash
-go install github.com/ReilynChan/igo@latest
+go install github.com/kawaiirei0/igo@latest
 ```
 
 ---
@@ -254,7 +254,7 @@ package:
 ## 🛠 开发
 
 ```bash
-git clone https://github.com/ReilynChan/igo.git
+git clone https://github.com/kawaiirei0/igo.git
 cd igo
 go build -o igo main.go
 go test ./...
@@ -280,6 +280,6 @@ MIT License → [LICENSE](LICENSE)
 
 ## 🔗 支持与反馈
 
-* [GitHub Issues](https://github.com/ReilynChan/igo/issues)
-* [GitHub Wiki](https://github.com/ReilynChan/igo/wiki)
-* [GitHub Discussions](https://github.com/ReilynChan/igo/discussions)
+* [GitHub Issues](https://github.com/kawaiirei0/igo/issues)
+* [GitHub Wiki](https://github.com/kawaiirei0/igo/wiki)
+* [GitHub Discussions](https://github.com/kawaiirei0/igo/discussions)
