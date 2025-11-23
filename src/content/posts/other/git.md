@@ -62,6 +62,7 @@ git config --global user.email "你的Git邮箱"
 | 添加文件到暂存区 | `git add 文件名` / `git add .`（全部） |
 | 提交到本地仓库  | `git commit -m "提交说明"`          |
 | 查看提交历史   | `git log`                       |
+| 新建标签     | `git tag -a "标签名字" -m "标签描述"`                |
 | 新建分支     | `git branch 分支名`                |
 | 切换分支     | `git checkout 分支名`              |
 | 合并分支     | `git merge 分支名`                 |
